@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)
 
 
 <!--
