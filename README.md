@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![ROKO02's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKO02&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 <p></p>
 소개
