@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![ROKO02's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKO02&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 소개
 <p></p>
 언어
@@ -11,8 +11,7 @@
 기술
 <p></p>
 프로그래밍 사이트들
-<p></p>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)]
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)
 
 
 <!--
