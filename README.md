@@ -12,7 +12,7 @@
 <p></p>
 프로그래밍 사이트들
 <p></p>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)]
 
 
 <!--
