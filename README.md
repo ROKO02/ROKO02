@@ -1,25 +1,9 @@
-<head>
-  <style>
-    header{
-           background-color: black;
-      }
-  </style>
-</head>
-<body>
-  <header>HELLO WORLD</header>
-  <container>
-    <div>
-      <p>소개</p>
-    </div>
-    <div>
-      <p>언어&기술</p>
-    </div>
-    <div>
-      <p>프로그래밍 사이트</p>
-    </div>
-  </container>
-</body>
- 
+
+ HELLO WORLD
+ 소개
+ 언어&기술
+ ![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=blue)
+ 프로그래밍 사이트
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)
 
