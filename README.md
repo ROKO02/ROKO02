@@ -5,14 +5,11 @@
       <p>소개</p>
       <p>언어&기술</p>
       <p>프로그래밍 사이트</p>
-      <div>
-        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)
-      </div>
     </container>
   </body>
 </head>
 
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)
 
 
 <!--
