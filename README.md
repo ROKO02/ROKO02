@@ -1,13 +1,25 @@
 <head>
-  <body>
-    <header>HELLO WORLD</header>
-    <container>
-      <p>소개</p>
-      <p>언어&기술</p>
-      <p>프로그래밍 사이트</p>
-    </container>
-  </body>
+  <style>
+    header{
+           background-color: black;
+      }
+  </style>
 </head>
+<body>
+  <header>HELLO WORLD</header>
+  <container>
+    <div>
+      <p>소개</p>
+    </div>
+    <div>
+      <p>언어&기술</p>
+    </div>
+    <div>
+      <p>프로그래밍 사이트</p>
+    </div>
+  </container>
+</body>
+ 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bergi1137)](https://solved.ac/bergi1137)
 
